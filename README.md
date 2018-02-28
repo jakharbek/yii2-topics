@@ -1,6 +1,6 @@
-Categories
+Topics
 ==========
-Categories
+Topics
 
 Installation
 ------------
